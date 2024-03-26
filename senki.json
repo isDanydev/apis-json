@@ -1,0 +1,165 @@
+{
+  "anime": "Senki",
+  "characters": [
+    {
+      "id": 1,
+      "name": "Akira Fudo",
+      "role": "Protagonist",
+      "species": "Human",
+      "age": 18,
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Ryo Asuka",
+      "role": "Antagonist",
+      "species": "Demon",
+      "age": "Unknown",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "name": "Miki Makimura",
+      "role": "Supporting Character",
+      "species": "Human",
+      "age": 17,
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "name": "Satan",
+      "role": "Antagonist",
+      "species": "Demon",
+      "age": "Unknown",
+      "gender": "Male"
+    },
+    {
+      "id": 5,
+      "name": "Kozo Makimura",
+      "role": "Supporting Character",
+      "species": "Human",
+      "age": 40,
+      "gender": "Male"
+    },
+    {
+      "id": 6,
+      "name": "Jinmen",
+      "role": "Antagonist",
+      "species": "Demon",
+      "age": "Unknown",
+      "gender": "Male"
+    },
+    {
+      "id": 7,
+      "name": "Dosu-Roku",
+      "role": "Supporting Character",
+      "species": "Demon",
+      "age": "Unknown",
+      "gender": "Male"
+    },
+    {
+      "id": 8,
+      "name": "Zennon",
+      "role": "Antagonist",
+      "species": "Demon",
+      "age": "Unknown",
+      "gender": "Male"
+    },
+    {
+      "id": 9,
+      "name": "Masa Bokuto",
+      "role": "Supporting Character",
+      "species": "Human",
+      "age": 23,
+      "gender": "Male"
+    },
+    {
+      "id": 10,
+      "name": "Agwel",
+      "role": "Antagonist",
+      "species": "Demon",
+      "age": "Unknown",
+      "gender": "Male"
+    },
+    {
+      "id": 11,
+      "name": "Kaim",
+      "role": "Supporting Character",
+      "species": "Demon",
+      "age": "Unknown",
+      "gender": "Male"
+    },
+    {
+      "id": 12,
+      "name": "Jinmen (Miki)",
+      "role": "Antagonist",
+      "species": "Demon",
+      "age": "Unknown",
+      "gender": "Male"
+    },
+    {
+      "id": 13,
+      "name": "Zennon's Demon",
+      "role": "Antagonist",
+      "species": "Demon",
+      "age": "Unknown",
+      "gender": "Unknown"
+    },
+    {
+      "id": 14,
+      "name": "Kaim's Demon",
+      "role": "Antagonist",
+      "species": "Demon",
+      "age": "Unknown",
+      "gender": "Unknown"
+    },
+    {
+      "id": 15,
+      "name": "Psycho Jenny",
+      "role": "Antagonist",
+      "species": "Demon",
+      "age": "Unknown",
+      "gender": "Female"
+    },
+    {
+      "id": 16,
+      "name": "Miki's Mother",
+      "role": "Supporting Character",
+      "species": "Human",
+      "age": "Unknown",
+      "gender": "Female"
+    },
+    {
+      "id": 17,
+      "name": "Lacubo",
+      "role": "Antagonist",
+      "species": "Demon",
+      "age": "Unknown",
+      "gender": "Male"
+    },
+    {
+      "id": 18,
+      "name": "Amon",
+      "role": "Antagonist",
+      "species": "Demon",
+      "age": "Unknown",
+      "gender": "Male"
+    },
+    {
+      "id": 19,
+      "name": "Zebra",
+      "role": "Antagonist",
+      "species": "Demon",
+      "age": "Unknown",
+      "gender": "Male"
+    },
+    {
+      "id": 20,
+      "name": "Guz",
+      "role": "Antagonist",
+      "species": "Demon",
+      "age": "Unknown",
+      "gender": "Male"
+    }
+  ]
+}
