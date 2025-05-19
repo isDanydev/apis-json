@@ -33,5 +33,12 @@
     "author": "Kelly Sue DeConnick",
     "year": 2012,
     "description": "Carol Danvers becomes one of the universe’s most powerful heroes."
+  },
+  {
+    "id": 6,
+    "title": "Deadpool",
+    "author": "Stan Lee",
+    "year": 2005,
+    "description": "El trol y el mesias de marvel"
   }
 ]
