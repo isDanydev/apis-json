@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Spider-Man: Homecoming",
+    "author": "Stan Lee",
+    "year": 2017,
+    "description": "Peter Parker balances his life as an ordinary high school student with his superhero alter-ego Spider-Man."
+  },
+  {
+    "id": 2,
+    "title": "Iron Man: Extremis",
+    "author": "Warren Ellis",
+    "year": 2005,
+    "description": "Tony Stark battles a techno-organic virus and pushes the limits of his armor technology."
+  },
+  {
+    "id": 3,
+    "title": "The Avengers",
+    "author": "Stan Lee & Jack Kirby",
+    "year": 1963,
+    "description": "Earth's mightiest heroes assemble to combat threats beyond any one hero's capability."
+  },
+  {
+    "id": 4,
+    "title": "Black Panther",
+    "author": "Ta-Nehisi Coates",
+    "year": 2016,
+    "description": "T’Challa defends Wakanda from internal and external threats."
+  },
+  {
+    "id": 5,
+    "title": "Captain Marvel",
+    "author": "Kelly Sue DeConnick",
+    "year": 2012,
+    "description": "Carol Danvers becomes one of the universe’s most powerful heroes."
+  }
+]
