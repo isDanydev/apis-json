@@ -1,12 +1,16 @@
 [
   {
-    "titulo": "Boticario Misterioso Capítulo 1",
+    "titulo": "Boticario Misterioso",
     "portada": "https://i.ytimg.com/vi/iX0vZfPJb44/maxresdefault.jpg",
-    "link": "https://s1.zonaemperor.com/manga/boticario-misterioso/capitulo-1/"
-  },
-  {
-    "titulo": "Boticario Misterioso Capítulo 2",
-    "portada": "https://example.com/portada2.jpg",
-    "link": "https://s1.zonaemperor.com/manga/boticario-misterioso/capitulo-2/"
+    "capitulos": [
+      {
+        "nombre": "Capítulo 1",
+        "link": "https://s1.zonaemperor.com/manga/boticario-misterioso/capitulo-1/"
+      },
+      {
+        "nombre": "Capítulo 2",
+        "link": "https://s1.zonaemperor.com/manga/boticario-misterioso/capitulo-2/"
+      }
+    ]
   }
 ]
